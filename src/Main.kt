@@ -1,7 +1,7 @@
 fun main(){
     val p1 = Person(name = "Ali")
     val p2 = Person(name = "Bilal", age = 23)
-    val p3 = Person (name = "Kalam", age = 32, email = "taharajput33@yahoo.com")
+    val p3 = Person (name = "Killer", age = 32, email = "taharajput33@yahoo.com")
     p1.introduce()
     p2.introduce()
     p3.introduce()
